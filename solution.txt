@@ -1,0 +1,184 @@
+  1  /Applications/Python\ 3.10/Install\ Certificates.command ; exit;
+    2  chsh -s $(which zsh)
+    3  brew install node
+    4  node -v
+    5  brew install git
+    6  git config --global user.name "ppheaktra"
+    7  git config --global user.email "yimchanpheaktra9@gmail.com"
+    8  ssh-keygen -t rsa -b 4096 -C "yimchanpheaktra9\n\nssh-keygen -t rsa -b 4096 -C "your_email@example.com"\nyimchanpheaktra9@gmail.com\n"
+    9  ssh-keygen -t rsa -b 4096 -C "yimchanpheaktra9@gmail.com"
+   10  eval "$(ssh-agent -s)"
+   11  pbcopy < ~/.ssh/id_rsa.pub
+   12  ssh git@github.com
+   13  brew install --cask visual-studio-code
+   14  code .
+   15  cd
+   16  cd ga_seir
+   17  mkdir projects
+   18  ls
+   19  mkdir unit1/lessons unit1/labs unit1/homework
+   20  ..
+   21  ppheaktra
+   22  chanpheaktrayim
+   23  cd ga_seir
+   24  mkdir ga_seir
+   25  mkdir unit1 unit2 unit3 unit4
+   26  code.
+   27  code .
+   28  pwd
+   29  mkdir ga_seir
+   30  cd
+   31  mkdir unit1 unit2 unit3 unit4
+   32  ga_seir
+   33  ls
+   34  mkdir projects
+   35  mkdir unit1/lessons unit1/labs unit1/homework
+   36  cd..
+   37  pwd
+   38  ls
+   39  cd projects
+   40  ls
+   41  cd ..
+   42  git clone git@github.com:SEI-R-6-21/u1_hw_star_wars.git
+   43  mkdir homework
+   44  ls
+   45  cd homework
+   46  touch act1.sh
+   47  code .
+   48  touch act2.sh
+   49  code .
+   50  touch act3.sh
+   51  cd ..
+   52  git clone git@github.com:SEI-R-6-21/u1_hw_star_wars.git
+   53  rm homework.txt
+   54  cd
+   55  mkdir ga_seir
+   56  cd
+   57  ga_seir
+   58  mkdir unit1 unit2 unit3 unit4
+   59  ls
+   60  mkdir projects
+   61  mkdir unit1/lessons unit1/labs unit1/homework
+   62  cd
+   63  unit1
+   64  ls
+   65  cd
+   66  cd projects
+   67  cd
+   68  ga_seir
+   69  cd
+   70  cd ../unit2
+   71  ga_seir
+   72  ls
+   73  cd u1_hw_star_wars
+   74  ped
+   75  pwd
+   76  cd ..
+   77  mkdir homework
+   78  ls
+   79  u1_hw_star_wars
+   80  pwd
+   81  code .
+   82  star_wars
+   83  cd star_wars
+   84  mkdir star_wars
+   85  ls star_wars
+   86  touch star_war
+   87  mkdir u1_hw_star_wars/star_wars
+   88  ls
+   89  mkdir star_wars
+   90  mkdir star_war
+   91  mkdir star_wars/empire
+   92  rm mkdir star_wars/empire
+   93  cd star_wars
+   94  mkdir empire
+   95  ls
+   96  cd star_wars
+   97  mkdir empire
+   98  cd empire
+   99  mkdir star_wars
+  100  cd star_wars
+  101* mkdir star_wars/empire star_war/rebellion
+  102* ls
+  103* cd star_wars
+  104* cd ..
+  105  mkdir {empire, rebellion}
+  106  mkdir {empire,rebellion}
+  107  cd empire
+  108  touch darth_vadar.txt
+  109  cd darth_vadar.txt
+  110  touch emperor_palpatine,txt
+  111  mkdir death_star
+  112  mv darth_vadar.txt >> death/star
+  113  mv darth_vadar.txt death_star
+  114  echo "...heavy breathing..." >> darth_vadar.txt
+  115  cd ~
+  116  git add .
+  117  cd act1.sh
+  118  ped
+  119  pwd
+  120  cd u1_hw_star_wars
+  121  git add .
+  122  git commit -m "Star Wars A1 completed"
+  123  cd star_wars
+  124  touch princess_leia.txt && "Help me, Obi-wan..." >> princess_leia.txt
+  125  touch princess_leia.txt && echo "Help me, Obi-wan..." >> princess_leia.txt
+  126  cd rebellion
+  127  touch obi_wan.txt
+  128  touch luke_skywalker.txt
+  129  mkdir millenium_falcon
+  130  cd millenium_falcon
+  131  touch han_solo.txt chewbacca.txt
+  132  mv luke_skywalker.txt obi_wan.txt princess_leia.txt millenium_falcon
+  133  cd rebellion
+  134  cd ..
+  135  mv luke_skywalker.txt obi_wan.txt princess_leia.txt millenium_falcon
+  136  mv princess_leia.txt millenium_falcon
+  137  cd millenium_falcon
+  138  mv rebellion/princess_leia.txt
+  139  cd ..
+  140  mv princess_leia.txt millenium_falcon
+  141  cd..
+  142  cd ..
+  143  mv rebellion/millenium_falcon empire/death_star
+  144  ouch princess_leia.txt && echo "Help me, Obi-wan..." >> princess_leia.txt
+  145  touch princess_leia.txt && echo "Help me, Obi-wan..." >> princess_leia.txt
+  146  mv princess_leia.txt empire/millenium_falcon
+  147  touch princess_leia.txt && echo "Help me, Obi-wan..." >> princess_leia.txt
+  148  cd empire
+  149  mv princess_leia.txt death_star/millenium_falcon
+  150  mv rebellion/princess_leia.txt death_star/millenium_falcon
+  151  cd ..
+  152  mv rebellion/princess_leia.txt death_star/millenium_falcon
+  153  mv empire/death_star/millenium_falcon/* empire/death_star
+  154  rm obi_wan.txt
+  155  cd millenium_falcon
+  156  cd death_star
+  157  cd ..
+  158  cd star_wars
+  159  cd empire
+  160  cd millenium_falcon
+  161  death_star
+  162  ram obi_wan.txt
+  163  rm obi_wan.txt
+  164  mv chewbacca.txt han_solo.txt luke_skywalker.txt princess_leia.txt millenium_falcon
+  165  mv empire/death_star/millenium_falcon rebellion
+  166  cp ..
+  167  cd ..
+  168  mv empire/death_star/millenium_falcon rebellion
+  169  cd ..
+  170  mv empire/death_star/millenium_falcon rebellion
+  171  mv empire/death_star/darth_vader.txt empire
+  172  cd empire
+  173  mv empire/death_star/darth_vader.txt empire
+  174  mv darth_vader.txt empire
+  175  mv death_star/darth_vadar.txt empire
+  176  cd ..
+  177  cd star_wars
+  178  mv empire/death_star/darth_vadar.txt empire
+  179  cd empire
+  180  echo "...heavy breathing..." >> darth_vadar.txt
+  181  cd ..
+  182  rm -rf empire/death_star
+  183  git add .
+  184  git commit -m "A2 A3 are completed"
